@@ -1,6 +1,6 @@
 # Correlating Magnetization Reversal and Anisotropic Magnetoresistance in Ferromagnetic Thin Films
 
-**Authors:** Joaquín Riquelme Ponce¹, Sheena Rasheed¹, Simón Oyarzún¹, Dhanalakshmi Radhalayam¹  
+**Authors:** **_Joaquín Riquelme Ponce__**¹, Sheena Rasheed¹, Simón Oyarzún¹, Dhanalakshmi Radhalayam¹  
 **Affiliation:** ¹Departamento de Física, Universidad de Santiago de Chile (USACH), Santiago, Chile  
 **Conference:** XXV Simposio Chileno de Física (SOCHIFI 2026)
 
